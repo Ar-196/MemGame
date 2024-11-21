@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\imgmatchgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\imgmatchgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\mainmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\mainmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\my project\\resources.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\my project\\resources.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\mainmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\mainmenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\backtomainconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\backtomainconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\settingsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|c:\\users\\arnavbadrish\\onedrive - 3rd rock business solutions\\desktop\\resources\\code folder\\personal projects\\memgame\\project\\memgame\\memgame\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{05CCE4E1-1488-4B60-9286-651FE1631879}|MemGame\\MemGame.vbproj|solutionrelative:memgame\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\My Project\\Resources.Designer.vb",
+              "RelativeDocumentMoniker": "MemGame\\My Project\\Resources.Designer.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\My Project\\Resources.Designer.vb",
+              "RelativeToolTip": "MemGame\\My Project\\Resources.Designer.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T11:03:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\MainMenu.vb",
+              "RelativeDocumentMoniker": "MemGame\\MainMenu.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\MainMenu.vb [Design]",
+              "RelativeToolTip": "MemGame\\MainMenu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:32:15.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsForm.vb",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\SettingsForm.vb",
+              "RelativeDocumentMoniker": "MemGame\\SettingsForm.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\SettingsForm.vb",
+              "RelativeToolTip": "MemGame\\SettingsForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:29:37.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImgMatchGame.vb",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\ImgMatchGame.vb",
+              "RelativeDocumentMoniker": "MemGame\\ImgMatchGame.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\ImgMatchGame.vb*",
+              "RelativeToolTip": "MemGame\\ImgMatchGame.vb*",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAYwIwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:10:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.vb",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\MainMenu.vb",
+              "RelativeDocumentMoniker": "MemGame\\MainMenu.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\MainMenu.vb",
+              "RelativeToolTip": "MemGame\\MainMenu.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:32:20.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackToMainConfirm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\BackToMainConfirm.vb",
+              "RelativeDocumentMoniker": "MemGame\\BackToMainConfirm.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\BackToMainConfirm.vb [Design]",
+              "RelativeToolTip": "MemGame\\BackToMainConfirm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:30:33.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\SettingsForm.vb",
+              "RelativeDocumentMoniker": "MemGame\\SettingsForm.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\SettingsForm.vb [Design]",
+              "RelativeToolTip": "MemGame\\SettingsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:29:12.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\Settings.vb",
+              "RelativeDocumentMoniker": "MemGame\\Settings.vb",
+              "ToolTip": "C:\\Users\\ArnavBadrish\\OneDrive - 3rd Rock Business Solutions\\Desktop\\Resources\\Code Folder\\Personal Projects\\MemGame\\Project\\MemGame\\MemGame\\Settings.vb",
+              "RelativeToolTip": "MemGame\\Settings.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T10:28:46.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
